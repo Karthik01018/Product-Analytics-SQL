@@ -1,8 +1,8 @@
-# InsightFlow SaaS Analytics Platform
+# Product Analytics using SQL & PostgreSQL
 
 ## Project Overview
 
-InsightFlow is an end-to-end SaaS Product Analytics project designed to simulate real-world business scenarios faced by Product Analysts, Data Analysts, and Growth Analysts.
+InsightFlow is an end-to-end Product Analytics project designed to simulate real-world business scenarios faced by Product Analysts, Data Analysts, and Growth Analysts.
 
 The project models the customer lifecycle from user acquisition to trial conversion, subscription revenue, feature adoption, and customer churn. A synthetic SaaS dataset was generated and stored in PostgreSQL to perform business-focused SQL analysis and derive actionable insights.
 
@@ -227,6 +227,6 @@ Task Manager was the most adopted feature, while AI Assistant achieved strong ad
 
 ## Author
 
-Nidhi S U Gowda
-
+**Kartik Beelagi**
 Data Analytics | Product Analytics | SQL | PostgreSQL | Python
+GitHub: https://github.com/Karthik01018
